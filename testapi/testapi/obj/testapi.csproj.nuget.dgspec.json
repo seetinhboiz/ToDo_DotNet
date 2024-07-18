@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\Nam4_HK3\\dotNet\\testapi\\testapi\\testapi.csproj": {}
+    "D:\\Study\\Nam4_HK3\\dotNet\\ToDo_DotNet\\testapi\\testapi\\testapi.csproj": {}
   },
   "projects": {
-    "D:\\Study\\Nam4_HK3\\dotNet\\testapi\\testapi\\testapi.csproj": {
+    "D:\\Study\\Nam4_HK3\\dotNet\\ToDo_DotNet\\testapi\\testapi\\testapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\Nam4_HK3\\dotNet\\testapi\\testapi\\testapi.csproj",
+        "projectUniqueName": "D:\\Study\\Nam4_HK3\\dotNet\\ToDo_DotNet\\testapi\\testapi\\testapi.csproj",
         "projectName": "testapi",
-        "projectPath": "D:\\Study\\Nam4_HK3\\dotNet\\testapi\\testapi\\testapi.csproj",
+        "projectPath": "D:\\Study\\Nam4_HK3\\dotNet\\ToDo_DotNet\\testapi\\testapi\\testapi.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\Nam4_HK3\\dotNet\\testapi\\testapi\\obj\\",
+        "outputPath": "D:\\Study\\Nam4_HK3\\dotNet\\ToDo_DotNet\\testapi\\testapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

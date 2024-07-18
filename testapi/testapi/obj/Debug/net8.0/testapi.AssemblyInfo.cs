@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea39c2b3d901cd01d5397f31c786c62137eb6619")]
 [assembly: System.Reflection.AssemblyProductAttribute("testapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
