@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5PMQqwcqnihKO06sdZWbVeTEEbnhmR0tikdtcqh49TU=",
+  "Source": "ToDo_Server",
+  "BasePath": "_content/ToDo_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
